@@ -6,7 +6,7 @@
 #pragma warning(disable:4786)
 //the above warning disables visual studio's annoying habit of warning when using the standard set lib
 #endif
-
+#include <stddef.h>
 #include <vector>
 
 class SplitNode;
