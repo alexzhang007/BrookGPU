@@ -1,6 +1,6 @@
 // splittree.cpp
 #include "splittree.h"
-
+#include <limits.h>
 #include "splitnode.h"
 #include "splitbuilder.h"
 #include "splitcompiler.h"
